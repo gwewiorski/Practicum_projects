@@ -7,7 +7,7 @@ https://github.com/gwewiorski/Practicum_projects/blob/main/russian_film_distribu
 
 # Анализ рынка недвижимости в Санкт-Петербурге
 
-<ссылка>
+https://github.com/gwewiorski/Practicum_projects/blob/main/real_estate_spb/real_estate_spb.ipynb
 
 **Задачи проекта**: Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир.
 
