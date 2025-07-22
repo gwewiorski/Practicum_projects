@@ -4,20 +4,20 @@ https://github.com/gwewiorski/Practicum_projects/blob/main/GoFast/GoFast_analysi
 
 Вы аналитик популярного сервиса аренды самокатов GoFast. Вам передали данные о некоторых пользователях из нескольких городов, а также об их поездках. Проанализируйте данные и проверьте некоторые гипотезы, которые могут помочь бизнесу вырасти.
 
-# ICE_prioritization
+# Приотизация и проверка гипотез по увеличению выручки интернет-магазина
 
 https://github.com/gwewiorski/Practicum_projects/blob/main/ICE_prioritization/ICE_prioritization.ipynb
 
 Вы — аналитик крупного интернет-магазина. Вместе с отделом маркетинга вы подготовили список гипотез для увеличения выручки.
 Приоритизируйте гипотезы, запустите A/B-тест и проанализируйте результаты. 
 
-# NPS_analysis_Tableau
+# Анализ уровня потребительской лояльности, или NPS 
 
 https://github.com/gwewiorski/Practicum_projects/blob/main/NPS_analysis/NPS_analysis.ipynb
 
 Заказчик этого исследования — большая телекоммуникационная компания, которая оказывает услуги на территории всего СНГ. Перед компанией стоит задача определить текущий уровень потребительской лояльности, или NPS (от англ. Net Promoter Score), среди клиентов из России. 
 
-# TED_Tableau
+# Анализ конференций TED (Technology, Entertainment, Design) 
 
 https://github.com/gwewiorski/Practicum_projects/blob/main/TED_Tableau/TED_Tableau.ipynb
 
@@ -50,7 +50,7 @@ https://github.com/gwewiorski/Practicum_projects/blob/main/russian_film_distribu
 Заказчик этого исследования — Министерство культуры Российской Федерации. Был изучен рынок российского кинопроката и выявлены текущие тренды. Отдельно изучены фильмы,
 которые получили государственную поддержку. 
 
-# Telecom_provider
+# Анализ неэффективных клиентов телеком провайдера
 
 https://github.com/gwewiorski/Practicum_projects/blob/main/telecom_provider/telecom_provider_nupozvoni.ipynb
 
